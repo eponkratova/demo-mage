@@ -1,0 +1,11 @@
+sync_config:
+  auth_type: https
+  branch: null
+  email: null
+  remote_repo_link: https://github.com/eponkratova/demo-mage.git
+  repo_path: /home/mage_code
+  sync_on_pipeline_run: null
+  sync_on_start: null
+  sync_submodules: null
+  type: null
+  username: null
