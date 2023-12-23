@@ -21,5 +21,6 @@ RUN \
 
 ENV PYTHONPATH="${PYTHONPATH}:/home/mage_code"
 ENV REQUIRE_USER_AUTHENTICATION=1
+ENV MAGE_ACCESS_TOKEN_EXPIRY_TIME=1440
 
 CMD ["/bin/sh", "-c", "/app/run_app.sh"]
