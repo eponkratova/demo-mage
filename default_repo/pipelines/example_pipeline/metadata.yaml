@@ -69,7 +69,7 @@ settings:
 spark_config: {}
 tags: []
 type: python
-updated_at: '2023-12-23T11:31:16+00:00'
+updated_at: '2023-12-23 11:39:01'
 uuid: example_pipeline
 variables_dir: /home/src/mage_data/default_repo
 widgets: []

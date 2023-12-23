@@ -13,7 +13,7 @@ if 'test' not in globals():
 
 #importing variables
 BASE_URL = 'http://api.weatherapi.com/v1/current.json'
-API_KEY = 'e1576151e3ca40a8a4d33840231712'
+API_KEY = ''
 q = 'London'
 
 @data_loader
